@@ -1,4 +1,3 @@
-# abukabg-abukabg
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">Full Stack Developer | AI Integration Enthusiast | Ethiopia 🇪🇹</h3>
@@ -58,7 +57,7 @@ I enjoy turning ideas into real products using modern technologies and best engi
 ---
 
 ## 📫 Contact  
-📧 Email: **your-email-here**  
+📧 Email: **bereketgetachew6566@gmail.com**  
 🔗 GitHub: [https://github.com/abukabg](https://github.com/abukabg)
 
 ---
