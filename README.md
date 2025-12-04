@@ -70,7 +70,7 @@ I love building modern applications with strong architecture and meaningful user
 ---
 
 ## 📫 Contact  
-📧 Email: **your-email-here**  
+📧 Email: **bereketgetachew6566@gmail.com**  
 🔗 GitHub: [https://github.com/abukabg](https://github.com/abukabg)
 
 ---
